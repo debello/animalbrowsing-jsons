@@ -1,0 +1,565 @@
+[
+    {
+        "Number": 1,
+        "ImageWEBP": "seaweed.webp",
+        "ImagePNG": "seaweed.png",
+        "Name": "Alga Wakame",
+        "Price": "600",
+        "Season": "Oct-Jul (Norte)<br/> Abr-Ene (Sur)",
+        "SeasonN": "Oct-Jul (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Abr-Ene (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Quieto",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 2,
+        "ImageWEBP": "seagrapes.webp",
+        "ImagePNG": "seagrapes.png",
+        "Name": "Uvas de mar",
+        "Price": "900",
+        "Season": "Jun-Sep (Norte)<br/> Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>Dic-Mar", 
+        "Size": "Medio",
+        "Pattern": "Quieto",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 3,
+        "ImageWEBP": "seacucumber.webp",
+        "ImagePNG": "seacucumber.png",
+        "Name": "Pepino de mar",
+        "Price": "500",
+        "Season": "Nov-Abr (Norte)<br/> May-Oct (Sur)",
+        "SeasonN": "Nov-Abr (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Oct (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 4,
+        "ImageWEBP": "seapig.webp",
+        "ImagePNG": "seapig.png",
+        "Name": "Cerdo de mar",
+        "Price": "10,000",
+        "Season": "Nov-Feb (Norte)<br/> May-Ago (Sur)",
+        "SeasonN": "Nov-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Ago (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Zancadas largas-rápidas",
+        "Time": "4PM - 9AM"
+    },
+
+
+    {
+        "Number": 5,
+        "ImageWEBP": "seastar.webp",
+        "ImagePNG": "seastar.png",
+        "Name": "Estrella de mar",
+        "Price": "500",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Zancadas cortas-lentas",
+        "Time": "Todo el día"
+    },
+
+
+    {
+        "Number": 6,
+        "ImageWEBP": "seaurchin.webp",
+        "ImagePNG": "seaurchin.png",
+        "Name": "Erizo de mar",
+        "Price": "1,700",
+        "Season": "May-Sep (Norte)<br/> Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 7,
+        "ImageWEBP": "slatepencilurchin.webp",
+        "ImagePNG": "slatepencilurchin.png",
+        "Name": "Erizo lápizo de pizarra",
+        "Price": "2,000",
+        "Season": "May-Sep (Norte)<br/> Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Medio-consistente",
+        "Time": "4PM - 9AM"
+    },
+
+
+    {
+        "Number": 8,
+        "ImageWEBP": "seaanemone.webp",
+        "ImagePNG": "seaanemone.png",
+        "Name": "Anémona",
+        "Price": "500",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Quieto",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 9,
+        "ImageWEBP": "moonjellyfish.webp",
+        "ImagePNG": "moonjellyfish.png",
+        "Name": "Medusa luna",
+        "Price": "600",
+        "Season": "Jul-Sep (Norte)<br/> Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 10,
+        "ImageWEBP": "seaslug.webp",
+        "ImagePNG": "seaslug.png",
+        "Name": "Babosa de mar",
+        "Price": "600",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 11,
+        "ImageWEBP": "pearloyster.webp",
+        "ImagePNG": "pearloyster.png",
+        "Name": "Ostra perlera",
+        "Price": "2,800",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Zancadas largas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 12,
+        "ImageWEBP": "mussel.webp",
+        "ImagePNG": "mussel.png",
+        "Name": "Mejillón",
+        "Price": "1,500",
+        "Season": "Jun-Dic (Norte)<br/> Dic-Jun (Sur)",
+        "SeasonN": "Jun-Dic (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Jun (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 13,
+        "ImageWEBP": "oyster.webp",
+        "ImagePNG": "oyster.png",
+        "Name": "Ostra",
+        "Price": "1,100",
+        "Season": "Sep-Feb (Norte)<br/> Mar-Ago (Sur)",
+        "SeasonN": "Sep-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-Ago (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Lento",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 14,
+        "ImageWEBP": "scallop.webp",
+        "ImagePNG": "scallop.png",
+        "Name": "Vieira",
+        "Price": "1,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Zancadas largas-lentas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 15,
+        "ImageWEBP": "whelk.webp",
+        "ImagePNG": "whelk.png",
+        "Name": "Buccino",
+        "Price": "1,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 16,
+        "ImageWEBP": "turbanshell.webp",
+        "ImagePNG": "turbanshell.png",
+        "Name": "Caracola espinosa",
+        "Price": "1,000",
+        "Season": "Mar-May Sep-Dic (Norte)<br/> Mar-Jun Sep-Nov (Sur)",
+        "SeasonN": "Mar-May Sep-Dic (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Nov (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Lento",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 17,
+        "ImageWEBP": "abalone.webp",
+        "ImagePNG": "abalone.png",
+        "Name": "Abulón",
+        "Price": "2,000",
+        "Season": "Jun-Ene (Norte)<br/> Dic-Jul (Sur)",
+        "SeasonN": "Jun-Ene (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Jul (Sur)<br/><b>Disponible</b>", 
+        "Size": "Grande",
+        "Pattern": "Consistente",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 18,
+        "ImageWEBP": "gigasgiantclam.webp",
+        "ImagePNG": "gigasgiantclam.png",
+        "Name": "Taclobo gigante",
+        "Price": "15,000",
+        "Season": "May-Sep (Norte)<br/> Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Zancadas cortas-rápidas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 19,
+        "ImageWEBP": "chamberednautilus.webp",
+        "ImagePNG": "chamberednautilus.png",
+        "Name": "Nautilo",
+        "Price": "1,800",
+        "Season": "Mar-June Sep-Nov (Norte)<br/> Mar-May Sep-Dic (Sur)",
+        "SeasonN": "Mar-June Sep-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Dic (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Lento",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 20,
+        "ImageWEBP": "octopus.webp",
+        "ImagePNG": "octopus.png",
+        "Name": "Pulpo",
+        "Price": "1,200",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Zancadas largas-lentas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 21,
+        "ImageWEBP": "umbrellaoctopus.webp",
+        "ImagePNG": "umbrellaoctopus.png",
+        "Name": "Pulpo paragüas",
+        "Price": "6,000",
+        "Season": "Mar-May Sept-Nov (Norte)<br/> Mar-May Sep-Nov (Sur)",
+        "SeasonN": "Mar-May Sept-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Nov (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Zancadas cortas-rápidas",
+        "Time": "Todo el día"
+    },
+
+
+    {
+        "Number": 22,
+        "ImageWEBP": "vampiresquid.webp",
+        "ImagePNG": "vampiresquid.png",
+        "Name": "Calamar Vampiro",
+        "Price": "10,000",
+        "Season": "May-Ago (Norte)<br/> Nov-Feb (Sur)",
+        "SeasonN": "May-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Feb (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Rápido",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 23,
+        "ImageWEBP": "fireflysquid.webp",
+        "ImagePNG": "fireflysquid.png",
+        "Name": "Calamar luciérnaga",
+        "Price": "1,400",
+        "Season": "Mar-Jun (Norte)<br/> Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Dic (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Lento",
+        "Time": "9PM - 4AM"
+    },
+
+    {
+        "Number": 24,
+        "ImageWEBP": "gazamicrab.webp",
+        "ImagePNG": "gazamicrab.png",
+        "Name": "Cangrejo gazami",
+        "Price": "2,200",
+        "Season": "Jun-Nov (Norte)<br/> Dic-May (Sur)",
+        "SeasonN": "Jun-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-May (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Despacio-consistente",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 25,
+        "ImageWEBP": "dungenesscrab.webp",
+        "ImagePNG": "dungenesscrab.png",
+        "Name": "Buey del pacífico",
+        "Price": "1,900",
+        "Season": "Nov-May (Norte)<br/> May-Nov (Sur)",
+        "SeasonN": "Nov-May (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Nov (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Consistente",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 26,
+        "ImageWEBP": "snowcrab.webp",
+        "ImagePNG": "snowcrab.png",
+        "Name": "Cangrejo de nieve",
+        "Price": "6,000",
+        "Season": "Nov-Abr (Norte)<br/> May-Oct (Sur)",
+        "SeasonN": "Nov-Abr (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Oct (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Zancadas cortas-rápidas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 27,
+        "ImageWEBP": "redkingcrab.webp",
+        "ImagePNG": "redkingcrab.png",
+        "Name": "Cangrejo boreal",
+        "Price": "8,000",
+        "Season": "Nov-Mar (Norte)<br/> May-Sep (Sur)",
+        "SeasonN": "Nov-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Sep (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Rápido",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 28,
+        "ImageWEBP": "acornbarnacle.webp",
+        "ImagePNG": "acornbarnacle.png",
+        "Name": "Bellota de mar",
+        "Price": "600",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Quieto",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 29,
+        "ImageWEBP": "spidercrab.webp",
+        "ImagePNG": "spidercrab.png",
+        "Name": "Cangrejo gigante japonés",
+        "Price": "10,000",
+        "Season": "Mar-Abr (Norte)<br/> Sep-Oct (Sur)",
+        "SeasonN": "Mar-Abr (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Oct (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Rápido",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 30,
+        "ImageWEBP": "tigerprawn.webp",
+        "ImagePNG": "tigerprawn.png",
+        "Name": "Langostino tigre",
+        "Price": "3,000",
+        "Season": "Jun-Sep (Norte)<br/> Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>", 
+        "Size": "Medio",
+        "Pattern": "Consistente",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 31,
+        "ImageWEBP": "sweetshrimp.webp",
+        "ImagePNG": "sweetshrimp.png",
+        "Name": "Camarón boreal",
+        "Price": "1,400",
+        "Season": "Sep-Feb (Norte)<br/> Mar-Ago (Sur)",
+        "SeasonN": "Sep-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-Ago (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Lento",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 32,
+        "ImageWEBP": "mantisshrimp.webp",
+        "ImagePNG": "mantisshrimp.png",
+        "Name": "Langosta mantis",
+        "Price": "2,500",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Size": "Grande",
+        "Pattern": "Zancadas cortas-rápidas",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 33,
+        "ImageWEBP": "spinylobster.webp",
+        "ImagePNG": "spinylobster.png",
+        "Name": "Langosta espinosa",
+        "Price": "5,000",
+        "Season": "Oct-Dic (Norte)<br/> Abr-Jun (Sur)",
+        "SeasonN": "Oct-Dic (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Abr-Jun (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Rápido",
+        "Time": "9PM - 4AM"
+    },
+
+    {
+        "Number": 34,
+        "ImageWEBP": "lobster.webp",
+        "ImagePNG": "lobster.png",
+        "Name": "Bogavante",
+        "Price": "4,500",
+        "Season": "Abr-Jun Dic-Ene (Norte)<br/> Jun-Jul Oct-Nov (Sur)",
+        "SeasonN": "Abr-Jun (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Nov (Sur)<br/><b>Disponible</b>",
+        "Size": "Largo",
+        "Pattern": "Rápido",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 35,
+        "ImageWEBP": "giantisopod.webp",
+        "ImagePNG": "giantisopod.png",
+        "Name": "Isópodo gigante",
+        "Price": "12,000",
+        "Season": "Jul-Oct (Norte)<br/> Ene-Abr (Sur)",
+        "SeasonN": "Jul-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Abr (Sur)<br/><b>Disponible</b>",
+        "Size": "Largo",
+        "Pattern": "Zancadas largas-rápidas",
+        "Time": "9AM - 4PM, 9PM - 4AM"
+    },
+
+    {
+        "Number": 36,
+        "ImageWEBP": "horseshoecrab.webp",
+        "ImagePNG": "horseshoecrab.png",
+        "Name": "Cangrejo herradura",
+        "Price": "2,500",
+        "Season": "Jul-Sep (Norte)<br/> Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>",
+        "Size": "Medio",
+        "Pattern": "Zancadas cortas-rápidas",
+        "Time": "9PM - 4AM"
+    },
+
+    {
+        "Number": 37,
+        "ImageWEBP": "seapineapple.webp",
+        "ImagePNG": "seapineapple.png",
+        "Name": "Piña de mar",
+        "Price": "1,500",
+        "Season": "Abr-Ago (Norte)<br/> Oct-Feb (Sur)",
+        "SeasonN": "Abr-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Feb (Sur)<br/><b>Disponible</b>",
+        "Size": "Medio",
+        "Pattern": "Zancadas largas-lentas",
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 38,
+        "ImageWEBP": "spottedgardeneel.webp",
+        "ImagePNG": "spottedgardeneel.png",
+        "Name": "Anguila Jardinera",
+        "Price": "1,100",
+        "Season": "May-Oct (Norte)<br/> Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>", 
+        "Size": "Pequeño",
+        "Pattern": "Despacio-consistente",
+        "Time": "4AM - 9PM"
+    },
+
+    {
+        "Number": 39,
+        "ImageWEBP": "flatworm.webp",
+        "ImagePNG": "flatworm.png",
+        "Name": "Gusano políclado",
+        "Price": "700",
+        "Season": "Ago-Sep (Norte)<br/> Feb-Mar (Sur)",
+        "SeasonN": "Ago-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Feb-Mar (Sur)<br/><b>Disponible</b>",
+        "Size": "Pequeño",
+        "Pattern": "Corto-lento",
+        "Time": "4PM - 9AM"
+    },
+
+    {
+        "Number": 40,
+        "ImageWEBP": "venusflowerbasket.webp",
+        "ImagePNG": "venusflowerbasket.png",
+        "Name": "Canasta de flores de Venus",
+        "Price": "5,000",
+        "Season": "Oct-Feb (Norte)<br/> Abr-Ago (Sur)",
+        "SeasonN": "Oct-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Abr-Ago (Sur)<br/><b>Disponible</b>", 
+        "Size": "Largo",
+        "Pattern": "Zancadas largas-rápidas",
+        "Time": "Todo el día"
+    }
+]

@@ -1,0 +1,1121 @@
+[
+    {
+        "Number": 1,
+        "ImageWEBP": "bitterling.webp",
+        "ImagePNG": "bitterling.png",
+        "Name": "Amarguillo",
+        "Location": "Río",
+        "Size": "Muy pequeño",
+        "Price": "900",
+        "Season": "Nov-Mar (Norte)<br/>May-Sep (Sur)",
+        "SeasonN": "Nov-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 2,
+        "ImageWEBP": "palechub.webp",
+        "ImagePNG": "palechub.png",
+        "Name": "Cacho",
+        "Location": "Río",
+        "Size": "Muy pequeño",
+        "Price": "200",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 3,
+        "ImageWEBP": "cruciancarp.webp",
+        "ImagePNG": "cruciancarp.png",
+        "Name": "Carpín",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "160",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 4,
+        "ImageWEBP": "dace.webp",
+        "ImagePNG": "dace.png",
+        "Name": "Leucisco",
+        "Location": "Río",
+        "Size": "Mediano",
+        "Price": "240",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 5,
+        "ImageWEBP": "carp.webp",
+        "ImagePNG": "carp.png",
+        "Name": "Carpa",
+        "Location": "Estanque",
+        "Size": "Grande",
+        "Price": "300",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 6,
+        "ImageWEBP": "koi.webp",
+        "ImagePNG": "koi.png",
+        "Name": "Koi",
+        "Location": "Estanque",
+        "Size": "Grande",
+        "Price": "4,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 7,
+        "ImageWEBP": "goldfish.webp",
+        "ImagePNG": "goldfish.png",
+        "Name": "Pez dorado",
+        "Location": "Estanque",
+        "Size": "Muy pequeño",
+        "Price": "1,300",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 8,
+        "ImageWEBP": "popeyedgoldfish.webp",
+        "ImagePNG": "popeyedgoldfish.png",
+        "Name": "Pez telescopio",
+        "Location": "Estanque",
+        "Size": "Muy pequeño",
+        "Price": "1,300",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 9,
+        "ImageWEBP": "ranchugoldfish.webp",
+        "ImagePNG": "ranchugoldfish.png",
+        "Name": "Ranchú",
+        "Location": "Estanque",
+        "Size": "Pequeño",
+        "Price": "4,500",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 10,
+        "Name": "Killi",
+        "ImageWEBP": "killifish.webp",
+        "ImagePNG": "killifish.png",
+        "Location": "Estanque",
+        "Size": "Muy pequeño",
+        "Price": "300",
+        "Season": "Abr-Ago (Norte)<br/>Oct-Feb (Sur)",
+        "SeasonN": "Abr-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Feb (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 11,
+        "ImageWEBP": "crawfish.webp",
+        "ImagePNG": "crawfish.png",
+        "Name": "Cangrejo de río",
+        "Location": "Estanque",
+        "Size": "Pequeño",
+        "Price": "200",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 12,
+        "ImageWEBP": "softshelledturtle.webp",
+        "ImagePNG": "softshelledturtle.png",
+        "Name": "Tortuga caparazón blando",
+        "Location": "Río",
+        "Size": "Grande",
+        "Price": "3,750",
+        "Season": "Ago-Sep (Norte)<br/>Feb-Mar (Sur)",
+        "SeasonN": "Ago-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Feb-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 13,
+        "ImageWEBP": "snappingturtle.webp",
+        "ImagePNG": "snappingturtle.png",
+        "Name": "Tortuga mordedora",
+        "Location": "Río",
+        "Size": "Muy grande",
+        "Price": "5,000",
+        "Season": "Abr-Oct (Norte)<br/>Oct-Abr (Sur)",
+        "SeasonN": "Abr-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "9PM - 4AM"
+    },
+    
+    {
+        "Number": 14,
+        "ImageWEBP": "tadpole.webp",
+        "ImagePNG": "tadpole.png",
+        "Name": "Renacuajo",
+        "Location": "Estanque",
+        "Size": "Muy pequeño",
+        "Price": "100",
+        "Season": "Mar-Jul (Norte)<br/>Sep-Ene (Sur)",
+        "SeasonN": "Mar-Jul (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Ene (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 15,
+        "ImageWEBP": "frog.webp",
+        "ImagePNG": "frog.png",
+        "Name": "Rana",
+        "Location": "Estanque",
+        "Size": "Pequeño",
+        "Price": "120",
+        "Season": "May-Ago (Norte)<br/>Nov-Feburary (Sur)",
+        "SeasonN": "May-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Feb (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 16,
+        "ImageWEBP": "freshwatergoby.webp",
+        "ImagePNG": "freshwatergoby.png",
+        "Name": "Gobio de río",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "400",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 17,
+        "ImageWEBP": "loach.webp",
+        "ImagePNG": "loach.png",
+        "Name": "Locha",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "400",
+        "Season": "Mar-May (Norte)<br/>Sep-Nov (Sur)",
+        "SeasonN": "Mar-May (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-Nov (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 18,
+        "ImageWEBP": "catfish.webp",
+        "ImagePNG": "catfish.png",
+        "Name": "Siluro",
+        "Location": "Estanque",
+        "Size": "Grande",
+        "Price": "800",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 19,
+        "ImageWEBP": "giantsnakehead.webp",
+        "ImagePNG": "giantsnakehead.png",
+        "Name": "Pez cabeza de serpiente",
+        "Location": "Estanque",
+        "Size": "Muy grande",
+        "Price": "5,500",
+        "Season": "Jun-Ago (Norte)<br/>Dic-Feb (Sur)",
+        "SeasonN": "Jun-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Feb (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 20,
+        "ImageWEBP": "bluegill.webp",
+        "ImagePNG": "bluegill.png",
+        "Name": "Pez sol",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "180",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 21,
+        "ImageWEBP": "yellowperch.webp",
+        "ImagePNG": "yellowperch.png",
+        "Name": "Perca amarilla",
+        "Location": "Río",
+        "Size": "Mediano",
+        "Price": "300",
+        "Season": "Oct-Mar (Norte)<br/>Abr-Sep (Sur)",
+        "SeasonN": "Oct-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Abr-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 22,
+        "ImageWEBP": "blackbass.webp",
+        "ImagePNG": "blackbass.png",
+        "Name": "Perca",
+        "Location": "Río",
+        "Size": "Grande",
+        "Price": "400",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 23,
+        "ImageWEBP": "tilapia.webp",
+        "ImagePNG": "tilapia.png",
+        "Name": "Tilapia",
+        "Location": "Río",
+        "Size": "Mediano",
+        "Price": "800",
+        "Season": "Jun-Oct (Norte)<br/>Dic-Abr (Sur)",
+        "SeasonN": "Jun-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 24,
+        "ImageWEBP": "pike.webp",
+        "ImagePNG": "pike.png",
+        "Name": "Lucio",
+        "Location": "Río",
+        "Size": "Muy grande",
+        "Price": "1,800",
+        "Season": "Sep-Dic (Norte)<br/>Mar-Jun (Sur)",
+        "SeasonN": "Sep-Dic (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-Jun (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 25,
+        "ImageWEBP": "pondsmelt.webp",
+        "ImagePNG": "pondsmelt.png",
+        "Name": "Eperlano",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "500",
+        "Season": "Dic-Feb (Norte)<br/>Jun-Ago (Sur)",
+        "SeasonN": "Dic-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Jun-Ago (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 26,
+        "ImageWEBP": "sweetfish.webp",
+        "ImagePNG": "sweetfish.png",
+        "Name": "Ayu",
+        "Location": "Río",
+        "Size": "Mediano",
+        "Price": "900",
+        "Season": "Jul-Sep (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 27,
+        "ImageWEBP": "cherrysalmon.webp",
+        "ImagePNG": "cherrysalmon.png",
+        "Name": "Salmón japonés",
+        "Location": "Río (cascada)",
+        "Size": "Mediano",
+        "Price": "1,000",
+        "Season": "Mar-Jun, Sep-Nov (Norte)<br/>Mar-May, Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun, Sep-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-May, Sep-Dic (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 28,
+        "ImageWEBP": "char.webp",
+        "ImagePNG": "char.png",
+        "Name": "Trucha",
+        "Location": "Río (cascada)",
+        "Size": "Mediano",
+        "Price": "3,800",
+        "Season": "Mar-Jun, Sep-Nov (Norte)<br/>Mar-May, Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun, Sep-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-May, Sep-Dic (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 29,
+        "ImageWEBP": "goldentrout.webp",
+        "ImagePNG": "goldentrout.png",
+        "Name": "Trucha dorada",
+        "Location": "Río (cascada)",
+        "Size": "Mediano",
+        "Price": "15,000",
+        "Season": "Mar-Jun, Sep-Nov (Norte)<br/>Mar-May, Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun, Sep-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-May, Sep-Dic (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 30,
+        "ImageWEBP": "stringfish.webp",
+        "ImagePNG": "stringfish.png",
+        "Name": "Taimén",
+        "Location": "Río (cascada)",
+        "Size": "Muy grande",
+        "Price": "15,000",
+        "Season": "Dic-Mar (Norte)<br/>Jun-Sep (Sur)",
+        "SeasonN": "Dic-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Jun-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 31,
+        "ImageWEBP": "salmon.webp",
+        "ImagePNG": "salmon.png",
+        "Name": "Salmón",
+        "Location": "Río (desembocadura)",
+        "Size": "Grande",
+        "Price": "700",
+        "Season": "Sep (Norte)<br/>Mar (Sur)",
+        "SeasonN": "Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 32,
+        "ImageWEBP": "kingsalmon.webp",
+        "ImagePNG": "kingsalmon.png",
+        "Name": "Salmón real",
+        "Location": "Río (desembocadura)",
+        "Size": "Muy grande",
+        "Price": "1,800",
+        "Season": "Sep (Norte)<br/>Mar (Sur)",
+        "SeasonN": "Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 33,
+        "ImageWEBP": "mittencrab.webp",
+        "ImagePNG": "mittencrab.png",
+        "Name": "Cangrejo de Shanghái",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "2,000",
+        "Season": "Sep-Nov (Norte)<br/>Mar-May (Sur)",
+        "SeasonN": "Sep-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-May (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 34,
+        "ImageWEBP": "guppy.webp",
+        "ImagePNG": "guppy.png",
+        "Name": "Gupi",
+        "Location": "Río",
+        "Size": "Muy pequeño",
+        "Price": "1,300",
+        "Season": "Abr-Nov (Norte)<br/>Oct-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-May (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 35,
+        "ImageWEBP": "nibblefish.webp",
+        "ImagePNG": "nibblefish.png",
+        "Name": "Pez doctor",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "1,500",
+        "Season": "May-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 36,
+        "ImageWEBP": "angelfish.webp",
+        "ImagePNG": "angelfish.png",
+        "Name": "Pez ángel",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "3,000",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 37,
+        "ImageWEBP": "betta.webp",
+        "ImagePNG": "betta.png",
+        "Name": "Betta",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "2,500",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 38,
+        "ImageWEBP": "neontetra.webp",
+        "ImagePNG": "neontetra.png",
+        "Name": "Tetra neón",
+        "Location": "Río",
+        "Size": "Muy pequeño",
+        "Price": "500",
+        "Season": "Abr-Nov (Norte)<br/>Oct-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-May (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 39,
+        "ImageWEBP": "rainbowfish.webp",
+        "ImagePNG": "rainbowfish.png",
+        "Name": "Pez arcoíris",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "800",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM"
+    },
+    
+    {
+        "Number": 40,
+        "ImageWEBP": "piranha.webp",
+        "ImagePNG": "piranha.png",
+        "Name": "Piraña",
+        "Location": "Río",
+        "Size": "Pequeño",
+        "Price": "2,500",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "9AM - 4PM, 9PM - 4AM"
+    },
+    
+    {
+        "Number": 41,
+        "ImageWEBP": "arowana2.webp",
+        "ImagePNG": "arowana2.png",
+        "Name": "Arowana Grande",
+        "Location": "Río",
+        "Size": "Grande",
+        "Price": "10,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 42,
+        "ImageWEBP": "dorado.webp",
+        "ImagePNG": "dorado.png",
+        "Name": "Dorado",
+        "Location": "Río",
+        "Size": "Muy grande",
+        "Price": "15,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4AM - 9PM"
+    },
+    
+    {
+        "Number": 43,
+        "ImageWEBP": "gar.webp",
+        "ImagePNG": "gar.png",
+        "Name": "Pez caimán",
+        "Location": "Estanque",
+        "Size": "Muy grande",
+        "Price": "6,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 44,
+        "ImageWEBP": "arapaima.webp",
+        "ImagePNG": "arapaima.png",
+        "Name": "Pirarucú",
+        "Location": "Río",
+        "Size": "Muy grande",
+        "Price": "10,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 45,
+        "ImageWEBP": "saddledbichir.webp",
+        "ImagePNG": "saddledbichir.png",
+        "Name": "Bichir ensillado",
+        "Location": "Río",
+        "Size": "Grande",
+        "Price": "4,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "9PM - 4AM"
+    },
+    
+    {
+        "Number": 46,
+        "ImageWEBP": "sturgeon.webp",
+        "ImagePNG": "sturgeon.png",
+        "Name": "Esturión",
+        "Location": "Río (desembocadura)",
+        "Size": "Muy grande",
+        "Price": "10,000",
+        "Season": "Sep-Mar (Norte)<br/>Mar-Sep (Sur)",
+        "SeasonN": "Sep-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Mar-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 47,
+        "ImageWEBP": "seabutterfly.webp",
+        "ImagePNG": "seabutterfly.png",
+        "Name": "Mariposa marina",
+        "Location": "Mar",
+        "Size": "Muy pequeño",
+        "Price": "1,000",
+        "Season": "Dic-Mar (Norte)<br/>Jun-Sep (Sur)",
+        "SeasonN": "Dic-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Jun-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 48,
+        "ImageWEBP": "seahorse.webp",
+        "ImagePNG": "seahorse.png",
+        "Name": "Caballito de mar",
+        "Location": "Mar",
+        "Size": "Muy pequeño",
+        "Price": "1100",
+        "Season": "Abr-Nov (Norte)<br/>Oct-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-May (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 49,
+        "ImageWEBP": "clownfish.webp",
+        "ImagePNG": "clownfish.png",
+        "Name": "Pez payaso",
+        "Location": "Mar",
+        "Size": "Muy pequeño",
+        "Price": "650",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 50,
+        "ImageWEBP": "surgeonfish.webp",
+        "ImagePNG": "surgeonfish.png",
+        "Name": "Pez cirujano",
+        "Location": "Mar",
+        "Size": "Pequeño",
+        "Price": "1,000",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 51,
+        "ImageWEBP": "butterflyfish.webp",
+        "ImagePNG": "butterflyfish.png",
+        "Name": "Pez mariposa",
+        "Location": "Mar",
+        "Size": "Pequeño",
+        "Price": "1,000",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 52,
+        "ImageWEBP": "napoleonfish.webp",
+        "ImagePNG": "napoleonfish.png",
+        "Name": "Pez napoleón",
+        "Location": "Mar",
+        "Size": "Muy grande",
+        "Price": "10,000",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>",
+        "Time": "4AM - 9PM"
+    },
+    
+    {
+        "Number": 53,
+        "ImageWEBP": "zebraturkeyfish.webp",
+        "ImagePNG": "zebraturkeyfish.png",
+        "Name": "Pez león",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "500",
+        "Season": "Abr-Nov (Norte)<br/>Oct-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Oct-May (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 54,
+        "ImageWEBP": "blowfish.webp",
+        "ImagePNG": "blowfish.png",
+        "Name": "Pez globo",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "5,000",
+        "Season": "Nov-Feb (Norte)<br/>May-Ago (Sur)",
+        "SeasonN": "Nov-Feb (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Ago (Sur)<br/><b>Disponible</b>",
+        "Time": "6PM - 4AM"
+    },
+    
+    {
+        "Number": 55,
+        "ImageWEBP": "pufferfish.webp",
+        "ImagePNG": "pufferfish.png",
+        "Name": "Pez erizo",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "250",
+        "Season": "Jul-Sep (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 56,
+        "ImageWEBP": "anchovy.webp",
+        "ImagePNG": "anchovy.png",
+        "Name": "Boquerón",
+        "Location": "Mar",
+        "Size": "Pequeño",
+        "Price": "200",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "4AM - 9PM"
+    },
+    
+    {
+        "Number": 57,
+        "ImageWEBP": "horsemackerel.webp",
+        "ImagePNG": "horsemackerel.png",
+        "Name": "Jurel",
+        "Location": "Mar",
+        "Size": "Pequeño",
+        "Price": "150",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 58,
+        "ImageWEBP": "barredknifejaw.webp",
+        "ImagePNG": "barredknifejaw.png",
+        "Name": "Dorada japonesa",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "5,000",
+        "Season": "Mar-Nov (Norte)<br/>Sep-May (Sur)",
+        "SeasonN": "Mar-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Sep-May (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 59,
+        "ImageWEBP": "seabass.webp",
+        "ImagePNG": "seabass.png",
+        "Name": "Lubina",
+        "Location": "Mar",
+        "Size": "Muy grande",
+        "Price": "400",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 60,
+        "ImageWEBP": "redsnapper.webp",
+        "ImagePNG": "redsnapper.png",
+        "Name": "Pargo rojo",
+        "Location": "Mar",
+        "Size": "Grande",
+        "Price": "3,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 61,
+        "ImageWEBP": "dab.webp",
+        "ImagePNG": "dab.png",
+        "Name": "Gallo",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "300",
+        "Season": "Oct-Abr (Norte)<br/>Abr-Oct (Sur)",
+        "SeasonN": "Oct-Abr (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Abr-Oct (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 62,
+        "ImageWEBP": "oliveflounder.webp",
+        "ImagePNG": "oliveflounder.png",
+        "Name": "Rodaballo",
+        "Location": "Mar",
+        "Size": "Grande",
+        "Price": "800",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 63,
+        "ImageWEBP": "squid.webp",
+        "ImagePNG": "squid.png",
+        "Name": "Calamar",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "500",
+        "Season": "Dic-Ago (Norte)<br/>Jun-Feb (Sur)",
+        "SeasonN": "Dic-Ago (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Jun-Feb (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 64,
+        "ImageWEBP": "morayeel.webp",
+        "ImagePNG": "morayeel.png",
+        "Name": "Morena",
+        "Location": "Mar",
+        "Size": "Muy grande",
+        "Price": "2,000",
+        "Season": "Ago-Oct (Norte)<br/>Feb-Abr (Sur)",
+        "SeasonN": "Ago-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Feb-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 65,
+        "ImageWEBP": "ribboneel.webp",
+        "ImagePNG": "ribboneel.png",
+        "Name": "Anguila de listón azul",
+        "Location": "Mar",
+        "Size": "Mediano",
+        "Price": "600",
+        "Season": "Jun-Oct (Norte)<br/>Dic-Abr (Sur)",
+        "SeasonN": "Jun-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 66,
+        "ImageWEBP": "tuna.webp",
+        "ImagePNG": "tuna.png",
+        "Name": "Atún",
+        "Location": "Muelle",
+        "Size": "Muy grande",
+        "Price": "7,000",
+        "Season": "Nov-Abr (Norte)<br/>May-Oct (Sur)",
+        "SeasonN": "Nov-Abr (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Oct (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 67,
+        "ImageWEBP": "bluemarlin.webp",
+        "ImagePNG": "bluemarlin.png",
+        "Name": "Pez espada",
+        "Location": "Muelle",
+        "Size": "Muy grande",
+        "Price": "10,000",
+        "Season": "Jul-Sep, Nov-Abr (Norte)<br/>Ene-Mar, May-Nov (Sur)",
+        "SeasonN": "Jul-Sep, N",
+        "SeasonS": "May-Nov (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 68,
+        "ImageWEBP": "gianttrevally.webp",
+        "ImagePNG": "gianttrevally.png",
+        "Name": "Jurel gigante",
+        "Location": "Muelle",
+        "Size": "Grande",
+        "Price": "4,500",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 69,
+        "ImageWEBP": "mahimahi.webp",
+        "ImagePNG": "mahimahi.png",
+        "Name": "Lampuga",
+        "Location": "Muelle",
+        "Size": "Grande",
+        "Price": "6,000",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 70,
+        "ImageWEBP": "oceansunfish.webp",
+        "ImagePNG": "oceansunfish.png",
+        "Name": "Pez luna",
+        "Location": "Mar",
+        "Size": "Muy grande (con aleta)",
+        "Price": "4,000",
+        "Season": "Jul-Sep (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4AM - 9PM"
+    },
+    
+    {
+        "Number": 71,
+        "ImageWEBP": "ray.webp",
+        "ImagePNG": "ray.png",
+        "Name": "Raya",
+        "Location": "Mar",
+        "Size": "Muy grande",
+        "Price": "3,000",
+        "Season": "Ago-Nov (Norte)<br/>Feb-May (Sur)",
+        "SeasonN": "Ago-Nov (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Feb-May (Sur)<br/><b>Disponible</b>",
+        "Time": "4AM - 9PM"
+    },
+    
+    {
+        "Number": 72,
+        "ImageWEBP": "sawshark.webp",
+        "ImagePNG": "sawshark.png",
+        "Name": "Pez sierra",
+        "Location": "Mar",
+        "Size": "Muy grande (con aleta)",
+        "Price": "12,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 73,
+        "ImageWEBP": "hammerheadshark.webp",
+        "ImagePNG": "hammerheadshark.png",
+        "Name": "Pez martillo",
+        "Location": "Mar",
+        "Size": "Muy grande (con aleta)",
+        "Price": "8,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 74,
+        "ImageWEBP": "greatwhiteshark.webp",
+        "ImagePNG": "greatwhiteshark.png",
+        "Name": "Tiburón",
+        "Location": "Mar",
+        "Size": "Muy grande (con aleta)",
+        "Price": "15,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 75,
+        "ImageWEBP": "whaleshark.webp",
+        "ImagePNG": "whaleshark.png",
+        "Name": "Tiburón ballena",
+        "Location": "Mar",
+        "Size": "Muy grande (con aleta)",
+        "Price": "13,000",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 76,
+        "ImageWEBP": "suckerfish.webp",
+        "ImagePNG": "suckerfish.png",
+        "Name": "Rémora",
+        "Location": "Mar",
+        "Size": "Grande (con aleta)",
+        "Price": "1,500",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 77,
+        "ImageWEBP": "footballfish.webp",
+        "ImagePNG": "footballfish.png",
+        "Name": "Pez balón",
+        "Location": "Mar",
+        "Size": "Grande",
+        "Price": "2,500",
+        "Season": "Nov-Mar (Norte)<br/>May-Sep (Sur)",
+        "SeasonN": "Nov-Mar (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "May-Sep (Sur)<br/><b>Disponible</b>",
+        "Time": "4PM - 9AM"
+    },
+    
+    {
+        "Number": 78,
+        "ImageWEBP": "oarfish.webp",
+        "ImagePNG": "oarfish.png",
+        "Name": "Pez remo",
+        "Location": "Mar",
+        "Size": "Muy grande",
+        "Price": "9,000",
+        "Season": "Dic-May (Norte)<br/>Jun-Nov (Sur)",
+        "SeasonN": "Dic-May (Norte)<br/><b>Disponible</b>",
+        "SeasonS": "Jun-Nov (Sur)<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    },
+    
+    {
+        "Number": 79,
+        "ImageWEBP": "barreleye.webp",
+        "ImagePNG": "barreleye.png",
+        "Name": "Pez cabeza transparente",
+        "Location": "Mar",
+        "Size": "Pequeño",
+        "Price": "15,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "9PM - 4AM"
+    },
+    
+    {
+        "Number": 80,
+        "ImageWEBP": "coelacanth.webp",
+        "ImagePNG": "coelacanth.png",
+        "Name": "Celacanto",
+        "Location": "Mar (lluvia)",
+        "Size": "Muy grande",
+        "Price": "15,000",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>",
+        "SeasonS": "Todo el año<br/><b>Disponible</b>",
+        "Time": "Todo el día"
+    }
+]

@@ -1,0 +1,1041 @@
+[    
+    {
+        "Number": 1,
+        "ImageWEBP": "commonbutterfly.webp",
+        "ImagePNG": "commonbutterfly.png",
+        "Name": "Mariposa común",
+        "Price": "160",
+        "Location": "Volando",
+        "Season": "Sep-Jun (Norte)<br/>Mar-Dic (Sur)",
+        "SeasonN": "Sep-Jun (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 2,
+        "ImageWEBP": "yellowbutterfly.webp", 	 	 
+        "ImagePNG": "yellowbutterfly.png", 	 	 
+        "Name": "Mariposa colias",
+        "Price": "160",
+        "Location": "Volando",
+        "Season": "Mar-Jun, Sep-Oct (Norte)<br/>Mar-Abr, Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun, Sep-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Abr, Sep-Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 3,
+        "ImageWEBP": "tigerbutterfly.webp", 	 	 
+        "ImagePNG": "tigerbutterfly.png", 	 	 
+        "Name": "Mariposa tigre",
+        "Price": "240",
+        "Location": "Volando",
+        "Season": "Mar-Sep (Norte)<br/>Sep-Mar (Sur)",
+        "SeasonN": "Mar-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 4,
+        "ImageWEBP": "peacockbutterfly.webp", 	 	 
+        "ImagePNG": "peacockbutterfly.png", 	 	 
+        "Name": "Mariposa bianor",
+        "Price": "2,500",
+        "Location": "Flores",
+        "Season": "Mar-Jun (Norte)<br/>Sep-Dic (Sur)",
+        "SeasonN": "Mar-Jun (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 5,
+        "ImageWEBP": "commonbluebottle.webp", 	 	 
+        "ImagePNG": "commonbluebottle.png", 	 	 
+        "Name": "Mariposa triángulo azul",
+        "Price": "300",
+        "Location": "Volando",
+        "Season": "Abr-Ago (Norte)<br/>Oct-Feb (Sur)",
+        "SeasonN": "Abr-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 6,
+        "ImageWEBP": "paperkitebutterfly.webp", 	 	 
+        "ImagePNG": "paperkitebutterfly.png", 	 	 
+        "Name": "Mariposa cometa de papel",
+        "Price": "1,000",
+        "Location": "Volando",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 7,
+        "ImageWEBP": "greatpurpleemperor.webp", 	 	 
+        "ImagePNG": "greatpurpleemperor.png", 	 	 
+        "Name": "Marip. emperador japonés",
+        "Price": "3,000",
+        "Location": "Volando",
+        "Season": "May-Ago (Norte)<br/>Nov-Feb (Sur)",
+        "SeasonN": "May-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 7PM"
+    },
+
+    {
+        "Number": 8,
+        "ImageWEBP": "monarchbutterfly.webp", 	 	 
+        "ImagePNG": "monarchbutterfly.png", 	 	 
+        "Name": "Mariposa monarca",
+        "Price": "140",
+        "Location": "Volando",
+        "Season": "Sep-Nov (Norte)<br/>Mar-May (Sur)",
+        "SeasonN": "Sep-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 5PM"
+    },
+
+    {
+        "Number": 9,
+        "ImageWEBP": "emperorbutterfly.webp", 	 	 
+        "ImagePNG": "emperorbutterfly.png", 	 	 
+        "Name": "Mariposa celeste",
+        "Price": "4,000",
+        "Location": "Volando",
+        "Season": "Jun-Sep, Dic-Mar (Norte)<br/>Dic-Mar, Jun-Sep (Sur)",
+        "SeasonN": "Jun-Sep, Dic-Mar (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic-Mar, Jun-Sep (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 10,
+        "ImageWEBP": "agriasbutterfly.webp", 	 	 
+        "ImagePNG": "agriasbutterfly.png", 	 	 
+        "Name": "Mariposa narciso",
+        "Price": "3,000",
+        "Location": "Volando",
+        "Season": "Abr-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 11,
+        "ImageWEBP": "rajahbrookesbirdwing.webp", 	 	 
+        "ImagePNG": "rajahbrookesbirdwing.png", 	 	 
+        "Name": "Mariposa alas de Brooke",
+        "Price": "2,500",
+        "Location": "Flores",
+        "Season": "Abr-Sep, Dic-Feb (Norte)<br/>Nov-Mar, Jun-Ago (Sur)",
+        "SeasonN": "Abr-Sep, Dic-Feb (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar, Jun-Ago (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 12,
+        "ImageWEBP": "queenalexandrasbirdwing.webp", 	 	 
+        "ImagePNG": "queenalexandrasbirdwing.png", 	 	 
+        "Name": "Mariposa alas de pájaro",
+        "Price": "4,000",
+        "Location": "Volando",
+        "Season": "May-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 4PM"
+    },
+
+    {
+        "Number": 13,
+        "ImageWEBP": "moth.webp", 	 	 
+        "ImagePNG": "moth.png", 	 	 
+        "Name": "Polilla",
+        "Price": "130",
+        "Location": "Volando en la luz",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "7PM - 4AM"
+    },
+
+    {
+        "Number": 14,
+        "ImageWEBP": "atlasmoth.webp", 	 	 
+        "ImagePNG": "atlasmoth.png", 	 	 
+        "Name": "Polilla atlas",
+        "Price": "3,000",
+        "Location": "En árboles",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 4AM"
+    },
+
+    {
+        "Number": 15,
+        "ImageWEBP": "madagascansunsetmoth.webp", 	 	 
+        "ImagePNG": "madagascansunsetmoth.png", 	 	 
+        "Name": "Polilla crepuscular",
+        "Price": "2,500",
+        "Location": "Volando",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 4PM"
+    },
+
+    {
+        "Number": 16,
+        "ImageWEBP": "longlocust.webp", 	 	 
+        "ImagePNG": "longlocust.png", 	 	 
+        "Name": "Langosta alargada",
+        "Price": "200",
+        "Location": "Suelo",
+        "Season": "Abr-Nov (Norte)<br/>Nov-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 17,
+        "ImageWEBP": "migratorylocust.webp", 	 	 
+        "ImagePNG": "migratorylocust.png", 	 	 
+        "Name": "Langosta migratoria",
+        "Price": "600",
+        "Location": "Suelo",
+        "Season": "Ago-Nov (Norte)<br/>Feb-May (Sur)",
+        "SeasonN": "Ago-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Feb-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 18,
+        "ImageWEBP": "ricegrasshopper.webp", 	 	 
+        "ImagePNG": "ricegrasshopper.png", 	 	 
+        "Name": "Langosta",
+        "Price": "160",
+        "Location": "Suelo",
+        "Season": "Ago-Nov (Norte)<br/>Feb-May (Sur)",
+        "SeasonN": "Ago-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Feb-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 19,
+        "ImageWEBP": "grasshopper.webp", 	 	 
+        "ImagePNG": "grasshopper.png", 	 	 
+        "Name": "Saltamontes",
+        "Price": "160",
+        "Location": "Suelo",
+        "Season": "Jul-Sep (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 20,
+        "ImageWEBP": "cricket.webp", 	 	 
+        "ImagePNG": "cricket.png", 	 	 
+        "Name": "Grillo común",
+        "Price": "130",
+        "Location": "Suelo",
+        "Season": "Sep-Nov (Norte)<br/>Mar-May (Sur)",
+        "SeasonN": "Sep-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 21,
+        "ImageWEBP": "bellcricket.webp", 	 	 
+        "ImagePNG": "bellcricket.png", 	 	 
+        "Name": "Grillo campana",
+        "Price": "430",
+        "Location": "Suelo (usar pala donde suene)",
+        "Season": "Sep-Oct (Norte)<br/>Mar-Abr (Sur)",
+        "SeasonN": "Sep-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 22,
+        "ImageWEBP": "mantis.webp", 	 	 
+        "ImagePNG": "mantis.png", 	 	 
+        "Name": "Mantis religiosa",
+        "Price": "430",
+        "Location": "Flores",
+        "Season": "Mar-Nov (Norte)<br/>Sep-May (Sur)",
+        "SeasonN": "Mar-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 23,
+        "ImageWEBP": "orchidmantis.webp", 	 	 
+        "ImagePNG": "orchidmantis.png", 	 	 
+        "Name": "Mantis orquídea",
+        "Price": "2,400",
+        "Location": "Flores",
+        "Season": "Mar-Nov (Norte)<br/>Sep-May (Sur)",
+        "SeasonN": "Mar-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 24,
+        "ImageWEBP": "honeybee.webp", 	 	 
+        "ImagePNG": "honeybee.png", 	 	 
+        "Name": "Abeja melífera",
+        "Price": "200",
+        "Location": "Volando",
+        "Season": "Mar-Jul (Norte)<br/>Mar-Jul (Sur)",
+        "SeasonN": "Mar-Jul (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Jul (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 25,
+        "ImageWEBP": "wasp.webp", 	 	 
+        "ImagePNG": "wasp.png", 	 	 
+        "Name": "Avispa",
+        "Price": "2,500",
+        "Location": "Sacudiendo árboles",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 26,
+        "ImageWEBP": "browncicada.webp", 	 	 
+        "ImagePNG": "browncicada.png", 	 	 
+        "Name": "Cigarra marrón",
+        "Price": "250",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 27,
+        "ImageWEBP": "robustcicada.webp", 	 	 
+        "ImagePNG": "robustcicada.png", 	 	 
+        "Name": "Cigarra oriental",
+        "Price": "300",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 28,
+        "ImageWEBP": "giantcicada.webp", 	 	 
+        "ImagePNG": "giantcicada.png", 	 	 
+        "Name": "Cigarra gigante",
+        "Price": "500",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 29,
+        "ImageWEBP": "walkercicada.webp", 	 	 
+        "ImagePNG": "walkercicada.png", 	 	 
+        "Name": "Cigarra común",
+        "Price": "400",
+        "Location": "En árboles",
+        "Season": "Ago-Sep (Norte)<br/>Feb-Mar (Sur)",
+        "SeasonN": "Ago-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Feb-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 30,
+        "ImageWEBP": "eveningcicada.webp", 	 	 
+        "ImagePNG": "eveningcicada.png", 	 	 
+        "Name": "Cigarrilla",
+        "Price": "550",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 8AM <br/> 4PM - 7PM"
+    },
+
+    {
+        "Number": 31,
+        "ImageWEBP": "cicadashell.webp", 	 	 
+        "ImagePNG": "cicadashell.png", 	 	 
+        "Name": "Muda de cigarra",
+        "Price": "10",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 32,
+        "ImageWEBP": "reddragonfly.webp", 	 	 
+        "ImagePNG": "reddragonfly.png", 	 	 
+        "Name": "Libélula roja",
+        "Price": "180",
+        "Location": "Volando",
+        "Season": "Sep-Oct (Norte)<br/>Mar-Abr (Sur)",
+        "SeasonN": "Sep-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 33,
+        "ImageWEBP": "darnerdragonfly.webp", 	 	 
+        "ImagePNG": "darnerdragonfly.png", 	 	 
+        "Name": "Libélula caballito del diablo",
+        "Price": "230",
+        "Location": "Volando",
+        "Season": "Abr-Oct (Norte)<br/>Oct-Abr (Sur)",
+        "SeasonN": "Abr-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 34,
+        "ImageWEBP": "bandeddragonfly.webp", 	 	 
+        "ImagePNG": "bandeddragonfly.png", 	 	 
+        "Name": "Libélula tigre",
+        "Price": "4,500",
+        "Location": "Volando",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 35,
+        "ImageWEBP": "damselfly.webp", 	 	 
+        "ImagePNG": "damselfly.png", 	 	 
+        "Name": "Libélula damisela",
+        "Price": "500",
+        "Location": "Volando",
+        "Season": "Nov-Feb (Norte)<br/>May-Ago (Sur)",
+        "SeasonN": "Nov-Feb (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "May-Ago (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 36,
+        "ImageWEBP": "firefly.webp", 	 	 
+        "ImagePNG": "firefly.png", 	 	 
+        "Name": "Luciérnaga",
+        "Price": "300",
+        "Location": "Volando en estanques",
+        "Season": "Jun (Norte)<br/>Dic (Sur)",
+        "SeasonN": "Jun (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 4AM"
+    },
+
+    {
+        "Number": 37,
+        "ImageWEBP": "molecricket.webp", 	 	 
+        "ImagePNG": "molecricket.png", 	 	 
+        "Name": "Grillo cebollero",
+        "Price": "500",
+        "Location": "Debajo de la tierra",
+        "Season": "Nov-May (Norte)<br/>May-Nov (Sur)",
+        "SeasonN": "Nov-May (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "May-Nov (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 38,
+        "ImageWEBP": "pondskater.webp", 	 	 
+        "ImagePNG": "pondskater.png", 	 	 
+        "Name": "Zapatero",
+        "Price": "130",
+        "Location": "Estanques o ríos",
+        "Season": "May-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 39,
+        "ImageWEBP": "divingbeetle.webp", 	 	 
+        "ImagePNG": "divingbeetle.png", 	 	 
+        "Name": "Escarabajo nadador",
+        "Price": "800",
+        "Location": "Estanques o ríos",
+        "Season": "May-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 7PM"
+    },
+
+    {
+        "Number": 40,
+        "ImageWEBP": "giantwaterbug.webp", 	 	 
+        "ImagePNG": "giantwaterbug.png", 	 	 
+        "Name": "Chinche acuática gigante",
+        "Price": "2,000",
+        "Location": "Estanques o ríos",
+        "Season": "Abr-Sep (Norte)<br/>Oct-Mar (Sur)",
+        "SeasonN": "Abr-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 8AM"
+    },
+
+    {
+        "Number": 41,
+        "ImageWEBP": "stinkbug.webp", 	 	 
+        "ImagePNG": "stinkbug.png", 	 	 
+        "Name": "Chinche",
+        "Price": "120",
+        "Location": "Flores",
+        "Season": "Mar-Nov (Norte)<br/>Sep-May (Sur)",
+        "SeasonN": "Mar-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 42,
+        "ImageWEBP": "manfacedstinkbug.webp", 	 	 
+        "ImagePNG": "manfacedstinkbug.png", 	 	 
+        "Name": "Chinche con rostro humano",
+        "Price": "1,000",
+        "Location": "Flores",
+        "Season": "Mar-Nov (Norte)<br/>Sep-May (Sur)",
+        "SeasonN": "Mar-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 8AM"
+    },
+
+    {
+        "Number": 43,
+        "ImageWEBP": "ladybug.webp", 	 	 
+        "ImagePNG": "ladybug.png", 	 	 
+        "Name": "Mariquita",
+        "Price": "200",
+        "Location": "Flores",
+        "Season": "Mar-Jun, Oct (Norte)<br/>Sep-Dic, Abr (Sur)",
+        "SeasonN": "Mar-Jun, Oct<br/><b>Disponible</b>", 
+        "SeasonS": "Sep-Dic, Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "8AM - 5PM"
+    },
+
+    {
+        "Number": 44,
+        "ImageWEBP": "tigerbeetle.webp", 	 	 
+        "ImagePNG": "tigerbeetle.png", 	 	 
+        "Name": "Escarabajo tigre",
+        "Price": "1,500",
+        "Location": "Suelo",
+        "Season": "Feb-Nov (Norte)<br/>Ago-May (Sur)",
+        "SeasonN": "Feb-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ago-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 45,
+        "ImageWEBP": "jewelbeetle.webp", 	 	 
+        "ImagePNG": "jewelbeetle.png", 	 	 
+        "Name": "Escarabajo joya",
+        "Price": "2,400",
+        "Location": "Arboles cortados",
+        "Season": "Abr-Ago (Norte)<br/>Oct-Feb (Sur)",
+        "SeasonN": "Abr-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 46,
+        "ImageWEBP": "violinbeetle.webp", 	 	 
+        "ImagePNG": "violinbeetle.png", 	 	 
+        "Name": "Escarabajo violín",
+        "Price": "450",
+        "Location": "Arboles cortados",
+        "Season": "May-Jun, Sep-Nov (Norte)<br/>Nov-Dic, Mar-Abr (Sur)",
+        "SeasonN": "May-Jun, Sep-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Dic, Mar-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 47,
+        "ImageWEBP": "citruslonghornedbeetle.webp", 	 	 
+        "ImagePNG": "citruslonghornedbeetle.png", 	 	 
+        "Name": "Longicornio asiático",
+        "Price": "350",
+        "Location": "Arboles cortados",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 48,
+        "ImageWEBP": "rosaliabatesibeetle.webp", 	 	 
+        "ImagePNG": "rosaliabatesibeetle.png", 	 	 
+        "Name": "Escarabajo rosalia batesi",
+        "Price": "3,000",
+        "Location": "Arboles cortados",
+        "Season": "May-Sep (Norte)<br/>Nov-Mar (Sur)",
+        "SeasonN": "May-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 49,
+        "ImageWEBP": "blueweevilbeetle.webp", 	 	 
+        "ImagePNG": "blueweevilbeetle.png", 	 	 
+        "Name": "Gorgojo azul",
+        "Price": "800",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 50,
+        "ImageWEBP": "dungbeetle.webp", 	 	 
+        "ImagePNG": "dungbeetle.png", 	 	 
+        "Name": "Escarabajo pelotero",
+        "Price": "3,000",
+        "Location": "Suelo (bolas de nieve)",
+        "Season": "Dic-Feb (Norte)<br/>Jun-Ago (Sur)",
+        "SeasonN": "Dic-Feb (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Jun-Ago (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 51,
+        "ImageWEBP": "earthboringdungbeetle.webp", 	 	 
+        "ImagePNG": "earthboringdungbeetle.png", 	 	 
+        "Name": "Escarabajo geotrúpido",
+        "Price": "300",
+        "Location": "Suelo",
+        "Season": "Jul-Sep (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 52,
+        "ImageWEBP": "scarabbeetle.webp", 	 	 
+        "ImagePNG": "scarabbeetle.png", 	 	 
+        "Name": "Escarabajo de oro",
+        "Price": "10,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "11PM - 8AM"
+    },
+
+    {
+        "Number": 53,
+        "ImageWEBP": "dronebeetle.webp", 	 	 
+        "ImagePNG": "dronebeetle.png", 	 	 
+        "Name": "Escarabajo verde japonés",
+        "Price": "200",
+        "Location": "En árboles",
+        "Season": "Jun-Ago (Norte)<br/>Dic-Feb (Sur)",
+        "SeasonN": "Jun-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 54,
+        "ImageWEBP": "goliathbeetle.webp", 	 	 
+        "ImagePNG": "goliathbeetle.png", 	 	 
+        "Name": "Goliat",
+        "Price": "8,000",
+        "Location": "En árboles (cocotero)",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 55,
+        "ImageWEBP": "sawstag.webp", 	 	 
+        "ImagePNG": "sawstag.png", 	 	 
+        "Name": "Escarabajo ciervo sierra",
+        "Price": "2,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 56,
+        "ImageWEBP": "miyamastag.webp", 	 	 
+        "ImagePNG": "miyamastag.png", 	 	 
+        "Name": "Escarabajo ciervo Miyama",
+        "Price": "1,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 57,
+        "ImageWEBP": "giantstag.webp", 	 	 
+        "ImagePNG": "giantstag.png", 	 	 
+        "Name": "Escarabajo ciervo gigante",
+        "Price": "10,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "11PM - 8AM"
+    },
+
+    {
+        "Number": 58,
+        "ImageWEBP": "rainbowstag.webp", 	 	 
+        "ImagePNG": "rainbowstag.png", 	 	 
+        "Name": "Escarabajo ciervo arcoíris",
+        "Price": "6,000",
+        "Location": "En árboles",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 8AM"
+    },
+
+    {
+        "Number": 59,
+        "ImageWEBP": "cyclommatusstag.webp", 	 	 
+        "ImagePNG": "cyclommatusstag.png", 	 	 
+        "Name": "Esc. ciervo cyclommatus",
+        "Price": "8,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 60,
+        "ImageWEBP": "goldenstag.webp", 	 	 
+        "ImagePNG": "goldenstag.png", 	 	 
+        "Name": "Escarabajo ciervo tornasol",
+        "Price": "12,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 61,
+        "ImageWEBP": "giraffestag.webp", 	 	 
+        "ImagePNG": "giraffestag.png", 	 	 
+        "Name": "Escarabajo ciervo jirafa",
+        "Price": "12,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 62,
+        "ImageWEBP": "horneddynastid.webp", 	 	 
+        "ImagePNG": "horneddynastid.png", 	 	 
+        "Name": "Escarabajo astado japonés",
+        "Price": "1,350",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 63,
+        "ImageWEBP": "hornedatlas.webp", 	 	 
+        "ImagePNG": "hornedatlas.png", 	 	 
+        "Name": "Escarabajo astado atlas",
+        "Price": "8,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 64,
+        "ImageWEBP": "hornedelephant.webp", 	 	 
+        "ImagePNG": "hornedelephant.png", 	 	 
+        "Name": "Escarabajo astado elefante",
+        "Price": "8,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 65,
+        "ImageWEBP": "hornedhercules.webp", 	 	 
+        "ImagePNG": "hornedhercules.png", 	 	 
+        "Name": "Escarabajo astado hércules",
+        "Price": "12,000",
+        "Location": "En árboles",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Feb (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Feb (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 8AM"
+    },
+
+    {
+        "Number": 66,
+        "ImageWEBP": "walkingstick.webp", 	 	 
+        "ImagePNG": "walkingstick.png", 	 	 
+        "Name": "Insecto palo",
+        "Price": "600",
+        "Location": "En árboles",
+        "Season": "Jul-Nov (Norte)<br/>Ene-May (Sur)",
+        "SeasonN": "Jul-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "4AM - 8AM <br/> 5PM - 7PM"
+    },
+
+    {
+        "Number": 67,
+        "ImageWEBP": "walkingleaf.webp", 	 	 
+        "ImagePNG": "walkingleaf.png", 	 	 
+        "Name": "Insecto hoja",
+        "Price": "600",
+        "Location": "Bajo árboles en forma de hoja",
+        "Season": "Jul-Ago (Norte)<br/>Ene-Mar (Sur)",
+        "SeasonN": "Jul-Ago (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Ene-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 68,
+        "ImageWEBP": "bagworm.webp", 	 	 
+        "ImagePNG": "bagworm.png", 	 	 
+        "Name": "Oruga de bolsón",
+        "Price": "600",
+        "Location": "Sacudiendo árboles",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 69,
+        "ImageWEBP": "ant.webp", 	 	 
+        "ImagePNG": "ant.png", 	 	 
+        "Name": "Hormiga",
+        "Price": "80",
+        "Location": "Comida podrida",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 70,
+        "ImageWEBP": "hermitcrab.webp", 	 	 
+        "ImagePNG": "hermitcrab.png", 	 	 
+        "Name": "Cangrejo ermitaño",
+        "Price": "1,000",
+        "Location": "Playa, camuflado en conchas",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "7PM - 8AM"
+    },
+
+    {
+        "Number": 71,
+        "ImageWEBP": "wharfroach.webp", 	 	 
+        "ImagePNG": "wharfroach.png", 	 	 
+        "Name": "Cochinilla de arena",
+        "Price": "200",
+        "Location": "Rocas de playa",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 72,
+        "ImageWEBP": "fly.webp", 	 	   	 
+        "ImagePNG": "fly.png", 	 	   	 
+        "Name": "Mosca",
+        "Price": "60",
+        "Location": "Comida podrida y basura",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 73,
+        "ImageWEBP": "mosquito.webp", 	 	   	 
+        "ImagePNG": "mosquito.png", 	 	   	 
+        "Name": "Mosquito",
+        "Price": "130",
+        "Location": "Volando",
+        "Season": "Jun-Sep (Norte)<br/>Dic-Mar (Sur)",
+        "SeasonN": "Jun-Sep (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Dic-Mar (Sur)<br/><b>Disponible</b>", 
+        "Time": "5PM - 4AM"
+    },
+
+    {
+        "Number": 74,
+        "ImageWEBP": "flea.webp", 	 	   	 
+        "ImagePNG": "flea.png", 	 	   	 
+        "Name": "Pulga",
+        "Price": "70",
+        "Location": "Revoloteando aldeanos",
+        "Season": "Abr-Nov (Norte)<br/>Oct-May (Sur)",
+        "SeasonN": "Abr-Nov (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Oct-May (Sur)<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 75,
+        "ImageWEBP": "snail.webp", 	 	   	 
+        "ImagePNG": "snail.png", 	 	   	 
+        "Name": "Caracol",
+        "Price": "250",
+        "Location": "Piedras (Lluvia)",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "Todo el día"
+    },
+
+    {
+        "Number": 76,
+        "ImageWEBP": "pillbug.webp", 	 	   	 
+        "ImagePNG": "pillbug.png", 	 	   	 
+        "Name": "Cochinilla",
+        "Price": "250",
+        "Location": "Rompiendo piedras",
+        "Season": "Sep-Jun (Norte)<br/>Mar-Dic (Sur)",
+        "SeasonN": "Sep-Jun (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "11PM - 4PM"
+    },
+
+    {
+        "Number": 77,
+        "ImageWEBP": "centipede.webp", 	 	   	 
+        "ImagePNG": "centipede.png", 	 	   	 
+        "Name": "Ciempiés",
+        "Price": "300",
+        "Location": "Rompiendo piedras",
+        "Season": "Sep-Jun (Norte)<br/>Mar-Dic (Sur)",
+        "SeasonN": "Sep-Jun (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Mar-Dic (Sur)<br/><b>Disponible</b>", 
+        "Time": "4PM - 11PM"
+    },
+
+    {
+        "Number": 78,
+        "ImageWEBP": "spider.webp", 	 	   	 
+        "ImagePNG": "spider.png", 	 	   	 
+        "Name": "Araña",
+        "Price": "600",
+        "Location": "Sacudiendo árboles",
+        "Season": "Todo el año",
+        "SeasonN": "Todo el año<br/><b>Disponible</b>", 
+        "SeasonS": "Todo el año<br/><b>Disponible</b>", 
+        "Time": "7PM - 8AM"
+    },
+
+    {
+        "Number": 79,
+        "ImageWEBP": "tarantula.webp", 	 	   	 
+        "ImagePNG": "tarantula.png", 	 	   	 
+        "Name": "Tarántula",
+        "Price": "8,000",
+        "Location": "Suelo",
+        "Season": "Nov-Abr (Norte)<br/>May-Oct (Sur)",
+        "SeasonN": "Nov-Abr (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "May-Oct (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 4AM"
+    },
+
+    {
+        "Number": 80,
+        "ImageWEBP": "scorpion.webp", 	 	   	 
+        "ImagePNG": "scorpion.png", 	 	   	 
+        "Name": "Escorpión",
+        "Price": "8,000",
+        "Location": "Suelo",
+        "Season": "May-Oct (Norte)<br/>Nov-Abr (Sur)",
+        "SeasonN": "May-Oct (Norte)<br/><b>Disponible</b>", 
+        "SeasonS": "Nov-Abr (Sur)<br/><b>Disponible</b>", 
+        "Time": "7PM - 4AM"
+    }
+]
